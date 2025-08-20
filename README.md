@@ -19,6 +19,7 @@
 
 - 📧 邮箱：`dxy868686@gmail.com`
 - 🌐 博客 / 主页：[duxy93](https://duxy93.com)
+- 📓 笔记：[note](https://github.com/xiangyuisabatman/xiangyuisabatman/issues)
 
 ---
 
