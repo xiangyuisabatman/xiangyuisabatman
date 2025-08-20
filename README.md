@@ -14,8 +14,6 @@
   - `MongoDB`
   - `Docker` / `GitHub Actions`
 
-## 📂 我的项目
-![觅食地图小程序](food-weapp.jpg)
 
 ## 📫 联系我
 
